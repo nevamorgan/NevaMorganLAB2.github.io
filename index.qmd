@@ -1,5 +1,9 @@
 ---
-title: "NevaMorganLAB2.github.io"
+title: "Lab 2: Minnesota tree growth"
+subtitle: "Manipulating and summarizing data with dplyr"
+author:
+  - name: "Neva Morgan"
+    email: "nevamorgan@colostate.edu"
 ---
 
 This is a Quarto website.
